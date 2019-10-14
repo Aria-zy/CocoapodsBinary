@@ -1,0 +1,23 @@
+${PODS_ROOT}/Target Support Files/Pods-CocoapodsBinary/Pods-CocoapodsBinary-frameworks.sh
+${PODS_ROOT}/Alamofire/Alamofire.framework
+${PODS_ROOT}/Alamofire/Alamofire.framework.dSYM
+${PODS_ROOT}/Dollar/Dollar.framework
+${PODS_ROOT}/Dollar/Dollar.framework.dSYM
+${PODS_ROOT}/Kingfisher/Kingfisher.framework
+${PODS_ROOT}/Kingfisher/Kingfisher.framework.dSYM
+${PODS_ROOT}/MonkeyKing/MonkeyKing.framework
+${PODS_ROOT}/MonkeyKing/MonkeyKing.framework.dSYM
+${PODS_ROOT}/Moya/Moya.framework
+${PODS_ROOT}/Moya/Moya.framework.dSYM
+${PODS_ROOT}/NVActivityIndicatorView/NVActivityIndicatorView.framework
+${PODS_ROOT}/NVActivityIndicatorView/NVActivityIndicatorView.framework.dSYM
+${PODS_ROOT}/OAuthSwift/OAuthSwift.framework
+${PODS_ROOT}/OAuthSwift/OAuthSwift.framework.dSYM
+${PODS_ROOT}/ReachabilitySwift/Reachability.framework
+${PODS_ROOT}/ReachabilitySwift/Reachability.framework.dSYM
+${PODS_ROOT}/Result/Result.framework
+${PODS_ROOT}/Result/Result.framework.dSYM
+${PODS_ROOT}/RxSwift/RxSwift.framework
+${PODS_ROOT}/RxSwift/RxSwift.framework.dSYM
+${PODS_ROOT}/SnapKit/SnapKit.framework
+${PODS_ROOT}/SnapKit/SnapKit.framework.dSYM

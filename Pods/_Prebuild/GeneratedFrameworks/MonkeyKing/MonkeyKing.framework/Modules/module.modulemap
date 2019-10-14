@@ -1,0 +1,11 @@
+framework module MonkeyKing {
+  umbrella header "MonkeyKing-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MonkeyKing.Swift {
+    header "MonkeyKing-Swift.h"
+    requires objc
+}

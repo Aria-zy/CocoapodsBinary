@@ -1,0 +1,19 @@
+qplatform:ios, '10.0'
+
+plugin 'cocoapods-binary'
+all_binary!
+
+target 'CocoapodsBinary'
+   use_frameworks!
+   
+  pod 'RxSwift'
+  pod 'SnapKit', '4.2'
+  pod 'Kingfisher'
+  pod 'SwiftLint'
+  pod 'Alamofire'
+  pod 'Moya'
+  pod 'ReachabilitySwift'
+  pod 'Dollar'
+  pod 'MonkeyKing'
+  pod 'OAuthSwift'
+  pod 'NVActivityIndicatorView'
